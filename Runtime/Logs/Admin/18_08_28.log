@@ -1,0 +1,260 @@
+[ 2018-08-28T15:17:10+08:00 ] 127.0.0.1 /adminprov.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:10+08:00 ] 127.0.0.1 /adminprov.php/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:17+08:00 ] 127.0.0.1 /adminprov.php/Public/check_code?code=acnj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-08-28T15:17:19+08:00 ] 127.0.0.1 /adminprov.php/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:19+08:00 ] 127.0.0.1 /adminprov.php/Public/check_code?code=acnj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-08-28T15:17:21+08:00 ] 127.0.0.1 /adminprov.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:23+08:00 ] 127.0.0.1 /adminprov.php/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:24+08:00 ] 127.0.0.1 /adminprov.php/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:29+08:00 ] 127.0.0.1 /adminprov.php/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:35+08:00 ] 127.0.0.1 /adminprov.php/Goods/goods_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:37+08:00 ] 127.0.0.1 /adminprov.php/Goods/goodsCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Common\Controller\AuthController and Common\TraitClass\SmsVerification define the same property ($error) in the composition of Admin\Controller\GoodsController. This might be incompatible, to improve maintainability consider using accessor methods in traits instead. Class was composed D:\shopsn\Application\Admin\Controller\GoodsController.class.php 第 1088 行.
+NOTIC: [2048] Common\Controller\AuthController and Common\TraitClass\SmsVerification define the same property ($key) in the composition of Admin\Controller\GoodsController. This might be incompatible, to improve maintainability consider using accessor methods in traits instead. Class was composed D:\shopsn\Application\Admin\Controller\GoodsController.class.php 第 1088 行.
+
+[ 2018-08-28T15:17:38+08:00 ] 127.0.0.1 /adminprov.php/Goods/goodsCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Common\Controller\AuthController and Common\TraitClass\SmsVerification define the same property ($error) in the composition of Admin\Controller\GoodsController. This might be incompatible, to improve maintainability consider using accessor methods in traits instead. Class was composed D:\shopsn\Application\Admin\Controller\GoodsController.class.php 第 1088 行.
+NOTIC: [2048] Common\Controller\AuthController and Common\TraitClass\SmsVerification define the same property ($key) in the composition of Admin\Controller\GoodsController. This might be incompatible, to improve maintainability consider using accessor methods in traits instead. Class was composed D:\shopsn\Application\Admin\Controller\GoodsController.class.php 第 1088 行.
+
+[ 2018-08-28T15:17:39+08:00 ] 127.0.0.1 /adminprov.php/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:17:48+08:00 ] 127.0.0.1 /adminprov.php/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:18:41+08:00 ] 127.0.0.1 /adminprov.php/Goods/goods_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:18:42+08:00 ] 127.0.0.1 /adminprov.php/Goods/goodsCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Common\Controller\AuthController and Common\TraitClass\SmsVerification define the same property ($error) in the composition of Admin\Controller\GoodsController. This might be incompatible, to improve maintainability consider using accessor methods in traits instead. Class was composed D:\shopsn\Application\Admin\Controller\GoodsController.class.php 第 1088 行.
+NOTIC: [2048] Common\Controller\AuthController and Common\TraitClass\SmsVerification define the same property ($key) in the composition of Admin\Controller\GoodsController. This might be incompatible, to improve maintainability consider using accessor methods in traits instead. Class was composed D:\shopsn\Application\Admin\Controller\GoodsController.class.php 第 1088 行.
+
+[ 2018-08-28T15:18:44+08:00 ] 127.0.0.1 /adminprov.php/Goods/goodsCategory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Common\Controller\AuthController and Common\TraitClass\SmsVerification define the same property ($error) in the composition of Admin\Controller\GoodsController. This might be incompatible, to improve maintainability consider using accessor methods in traits instead. Class was composed D:\shopsn\Application\Admin\Controller\GoodsController.class.php 第 1088 行.
+NOTIC: [2048] Common\Controller\AuthController and Common\TraitClass\SmsVerification define the same property ($key) in the composition of Admin\Controller\GoodsController. This might be incompatible, to improve maintainability consider using accessor methods in traits instead. Class was composed D:\shopsn\Application\Admin\Controller\GoodsController.class.php 第 1088 行.
+
+[ 2018-08-28T15:19:07+08:00 ] 127.0.0.1 /adminprov.php/GoodsClass/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:19:10+08:00 ] 127.0.0.1 /adminprov.php/GoodsClass/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:20:42+08:00 ] 127.0.0.1 /adminprov.php/GoodsClass/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:20:55+08:00 ] 127.0.0.1 /adminprov.php/GoodsClass/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:21:37+08:00 ] 127.0.0.1 /adminprov.php/Goods/hotWords
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:21:49+08:00 ] 127.0.0.1 /adminprov.php/Goods/hotWords
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:23:08+08:00 ] 127.0.0.1 /adminprov.php/Goods/hotWords
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:23:20+08:00 ] 127.0.0.1 /adminprov.php/Brand/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:23:26+08:00 ] 127.0.0.1 /adminprov.php/GoodsType/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:23:29+08:00 ] 127.0.0.1 /adminprov.php/GoodsSpec/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:26:39+08:00 ] 127.0.0.1 /adminprov.php/GoodsType/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:26:42+08:00 ] 127.0.0.1 /adminprov.php/GoodsSpec/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:27:08+08:00 ] 127.0.0.1 /adminprov.php/GoodsType/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:28:59+08:00 ] 127.0.0.1 /adminprov.php/GoodsClass/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:29:02+08:00 ] 127.0.0.1 /adminprov.php/GoodsClass/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:29:45+08:00 ] 127.0.0.1 /adminprov.php/GoodsClass/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:31:52+08:00 ] 127.0.0.1 /adminprov.php/Brand/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:32:41+08:00 ] 127.0.0.1 /adminprov.php/Brand/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:32:48+08:00 ] 127.0.0.1 /adminprov.php/Brand/addBrand
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:55:01+08:00 ] 127.0.0.1 /adminprov.php/Brand/addBrand
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:55:29+08:00 ] 127.0.0.1 /adminprov.php/Brand/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-28T15:55:31+08:00 ] 127.0.0.1 /adminprov.php/Brand/addBrand
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+

@@ -1,0 +1,3 @@
+<?php
+//000000000010a:2:{i:0;a:12:{s:2:"id";s:2:"90";s:8:"realname";s:9:"啧啧啧";s:6:"mobile";s:11:"15893706717";s:7:"user_id";s:1:"4";s:4:"prov";s:9:"上海市";s:4:"city";s:9:"闵行区";s:4:"dist";s:9:"浦江镇";s:7:"address";s:12:"蕾特商务";s:6:"status";s:1:"0";s:5:"alias";N;s:5:"email";N;s:8:"telphone";s:1:"0";}i:1;a:12:{s:2:"id";s:2:"91";s:8:"realname";s:6:"测试";s:6:"mobile";s:11:"15899998888";s:7:"user_id";s:1:"4";s:4:"prov";s:9:"上海市";s:4:"city";s:9:"闵行区";s:4:"dist";s:9:"七宝镇";s:7:"address";s:15:"测试路888号";s:6:"status";s:1:"1";s:5:"alias";s:0:"";s:5:"email";s:0:"";s:8:"telphone";s:0:"";}}
+?>

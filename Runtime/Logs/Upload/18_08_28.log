@@ -1,0 +1,388 @@
+[ 2018-08-28T15:55:25+08:00 ] 127.0.0.1 /upload.php/Upload/index/uploadNum/1/input/logo/config/brand_logo_config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: title D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 13 行.
+NOTIC: [8] Undefined index: callBack D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 51 行.
+NOTIC: [8] Use of undefined constant min_height - assumed 'min_height' D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-08-28T15:55:29+08:00 ] 127.0.0.1 /upload.php/Upload/index/uploadNum/1/input/logo/config/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: config D:\shopsn\Application\Upload\Controller\UploadController.class.php 第 39 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Controller,Model D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: / D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Model D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Controller D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: View D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: zh-cn D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Home D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Index D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: index D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: utf-8 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: PRC D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: JSON D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: jsonpReturn D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: htmlspecialchars,addslashes D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: mysql D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: localhost D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: shop_test D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: root D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: root D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 3306 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: db_ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: utf8 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: File D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ./Runtime/Temp/ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: 页面错误！请稍后再试～ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 100 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: File D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: EMERG,ALERT,CRIT,ERR,WARN,NOTIC,INFO,DEBUG,SQL D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 2097152 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: text/html D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Public:dispatch_jump D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Public:dispatch_jump D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: D:\shopsn\Core\Tpl\think_exception.tpl D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: .html D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: / D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Think D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: .php D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: echo,exit D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: { D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: } D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: array D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 6 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: {__CONTENT__} D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: layout D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: < D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: > D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: cx D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: / D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ORIG_PATH_INFO,REDIRECT_PATH_INFO,REDIRECT_URL D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: REQUEST_URI D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: html D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ico|png|gif|jpg D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: m D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: addon D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: c D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: a D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ajax D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: callback D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: s D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: t D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: private D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Local D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Think D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ./Application/Common/Conf/tmpl.php D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: /Uploads/goods/ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: http://www.shopsn.xyz D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 32 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: zhongwen D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 4 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: D:\shopsn\Runtime\Logs/Upload/ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ./Runtime/Cache/Upload/ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: http://fxcs.03.idchome.net/index.php/Home/FileUpload/receiveFile D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: http://fxcs.03.idchome.net D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: title D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 13 行.
+NOTIC: [8] Undefined index: callBack D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 51 行.
+NOTIC: [8] Use of undefined constant min_height - assumed 'min_height' D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-08-28T15:55:33+08:00 ] 127.0.0.1 /upload.php/Upload/index/uploadNum/1/input/logo/config/brand_logo_config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: title D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 13 行.
+NOTIC: [8] Undefined index: callBack D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 51 行.
+NOTIC: [8] Use of undefined constant min_height - assumed 'min_height' D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-08-28T15:55:33+08:00 ] 127.0.0.1 /upload.php/Upload/index/uploadNum/1/input/logo/config/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: config D:\shopsn\Application\Upload\Controller\UploadController.class.php 第 39 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Controller,Model D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: / D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Model D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Controller D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: View D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: zh-cn D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Home D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Index D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: index D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: utf-8 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: PRC D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: JSON D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: jsonpReturn D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: htmlspecialchars,addslashes D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: mysql D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: localhost D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: shop_test D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: root D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: root D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 3306 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: db_ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: utf8 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: File D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ./Runtime/Temp/ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: 页面错误！请稍后再试～ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 100 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: File D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: EMERG,ALERT,CRIT,ERR,WARN,NOTIC,INFO,DEBUG,SQL D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 2097152 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: text/html D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Public:dispatch_jump D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Public:dispatch_jump D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: D:\shopsn\Core\Tpl\think_exception.tpl D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: .html D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: / D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Think D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: .php D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: echo,exit D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: { D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: } D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: array D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 6 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: {__CONTENT__} D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: layout D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: < D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: > D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: cx D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: / D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ORIG_PATH_INFO,REDIRECT_PATH_INFO,REDIRECT_URL D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: REQUEST_URI D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: html D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ico|png|gif|jpg D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index:  D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: m D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: addon D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: c D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: a D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ajax D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: callback D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: s D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: t D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: private D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Local D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: Think D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ./Application/Common/Conf/tmpl.php D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: /Uploads/goods/ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: http://www.shopsn.xyz D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 0 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 32 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: zhongwen D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined offset: 4 D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: D:\shopsn\Runtime\Logs/Upload/ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: ./Runtime/Cache/Upload/ D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: http://fxcs.03.idchome.net/index.php/Home/FileUpload/receiveFile D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [8] Undefined index: http://fxcs.03.idchome.net D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+NOTIC: [2] Illegal offset type D:\shopsn\Application\Common\TraitClass\SmsVerification.class.php 第 80 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: title D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 13 行.
+NOTIC: [8] Undefined index: callBack D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 51 行.
+NOTIC: [8] Use of undefined constant min_height - assumed 'min_height' D:\shopsn\Runtime\Cache\Upload\75617118b757bb14fe59eb7290c49e96.php 第 58 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-08-28T15:55:43+08:00 ] 127.0.0.1 /upload.php/Upload/uploadImageToLocal/path/brand/sId/aDZ1YzI2OXU4bmhvMnJkMm9mM2gxNmhoZzY%3D/min_width/163/max_width/163/min_height/38/max_height/38.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+

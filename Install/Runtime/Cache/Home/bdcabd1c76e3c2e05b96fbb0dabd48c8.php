@@ -1,0 +1,81 @@
+<?php if (!defined('THINK_PATH')) exit();?><!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title><?php echo C('title');?></title>
+<link rel="stylesheet" href="/Public/Install/css/css.css"/>
+</head>
+<body>
+<div class="wrap">
+  <div class="width top">
+	<div class="logo left"><img src="/Public/Install/img/logo.png" width="324" height="41"></div>
+  <div class="Can-finish right clear center size16">只需3步，即可完成安装</div>
+</div>
+  
+  
+
+    <div class="content width">
+        <div class="step1">
+            <h3 style=" background:url(/Public/Install/img/step.jpg) no-repeat;"></h3>
+            <ul>
+                <li class="center left Orange" style="margin-left:15px;">欢迎使用ShopsN</li>
+                <li class="center left">检查环境  </li>
+                <li class="center left" style="margin-left:-15px;">配置系统</li>
+            </ul>
+        </div>
+        <div class="frame ">
+            <h4>阅读许可协议</h4>
+            <div style="overflow-x: auto; overflow-y: auto; height: 400px; background-color:#FFF; ">    <table  border="0" cellspacing="0" cellpadding="0"  >
+                <tr>
+                    <td>
+                        <p class="bold size16">重要提示：</p>
+                        非商业授权用户是指使用shopsn网店系统(免费版)的用户,可以从事学习研究之用.还可以永久用来进行商业用途。但必须保留网站底部页面我司产品版权声明 标志及链接!如未获取shopsn官方授权擅自取消版权声明链接及标志,视为盗版侵权. 本公司保留对其使用系统停止系统、关闭、以及媒体曝光及法律追究的权利.</p>
+                        <p>商业授权用户除获得技术支持及去版权声明外，还可实时获得最新版更新。</p>
+                        <p class="bold size16">ShopsN开源综合电商软件产品用户使用条款</p>
+                        本协议适用ShopsN发布的所有程序版本和代码，所有版本都将按照最新发布的【用户条款】执行。</p>
+                        <p>1、ShopsN官方指：ShopsN社区、ShopsN.net和ShopsN社区系统开发总管理人陈戈及上海亿速网络科技有限公司。<br>
+                            2、ShopsN禁止用户在使用中触犯中国法律范围内的任何法律条文。<br>
+                            3、上海亿速网络科技有限公司拥有对ShopsN的所有权，任何个人，公司和组织不得以任何形式和目的侵犯ShopsN的版权和著作权。<br>
+                            4、未经官方许可除自用外，禁止在ShopsN的整体或任何部分基础上以发展任何派生版本、修改版本或第三方版本用于重新分发。<br>
+                            5、ShopsN程序代码完全开源，不做任何加密处理。ShopsN允许【自身运营】用户对程序代码进行二次开发，但必须遵循本条款第6、7、8和9条规定执行。<br>
+                            6、所有使用ShopsN的用户在保留底部Powered by ShopsN 文字链接或者标识的情况下，可以免费使用ShopsN。<br>
+                            7、用户在购买ShopsN商业授权后才可以去除底部Powered by ShopsN 文字链接或者标识。<br>
+                            8、ShopsN不会监控用户网站信息，但有权通过邮件或者其他联系方式获悉用户使用情况，有权拿用户网站用作案例展示。<br>
+                            9、在未经ShopsN官方书面允许的情况下，除【自身运营】外，任何个人、公司和组织不能单方面发布和出售以ShopsN为基础开发的任何互联网软件或者产品，否则将视为侵权行为，将依照中华人民共和国法律追究其法律责任。<br>
+                            10、用户出于自愿而使用本软件，您必须了解使用本软件的风险，在尚未购买产相应技术服务之前，我们不承诺对免费用户提供任何形式的技术支持、使用担保，也不承担任何因使用本软件而产生问题的相关责任。为方便用户使用，软件内置了譬如网上支付网关等诸多第三方系统。但您应自行评估使用这些系统的风险。这些系统的具体开通与服务由相应第三方公司提供，由此而产生的任何商业纠纷，均与ShopsN无关。<br>
+                            11、未经ShopsN书面授权许可，授权用户不得向任何第三方提供为适应自身需要而改进的ShopsN软件。如果为授权用户所进行的这种改进涉及到许可软件，则ShopsN将有权对该改进进行再发展的非独占权，以及将其产品投放市场或许可给第三方的优先取舍权。<br>
+                            12、有关ShopsN软件授权包含的服务范围，服务付费方式等，ShopsN官方网站提供惟一的解释和官方价目表。ShopsN拥有在不事先通知的情况下，修改授权协议和价目表的权力，修改后的协议或价目表对自改变之日起的新授权用户生效。<br>
+                            13、公司企业等组织机构使用ShopsN软件在遵守第6条条款的情况下终生免费，无需强制购买ShopsN商业授权协议。但ShopsN不保证免费版本为最新版，并且不提供任何技术支持，为保障商业运营，建议购买商业授权！<br>
+                            14、ShopsN官方拥有对此协议的修改和不断完善。<br>
+                            <br>
+                            【自身运营】解释：即用户在使用ShopsN中，不通过出售任何以ShopsN为基础开发的产品，仅用作自身学习和自身商业运营的网站。<br>
+                            官方网站          http://www.shopsn.net/  <br>
+                            外包服务网站      http://www.yisu.cn/  <br>
+                            版权所有 (c)2003-2023，上海亿速网络科技有限公司 保留所有权利，保留对此协议的最终解释权， 任何站点使用本软件则表示默认接受此协议。  <br>
+                        </p>
+
+                        <p></p>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+        <div style="overflow:hidden">
+	<span class="left">
+	    <input id='agree'  name="" type="checkbox" value="" checked='checked'>
+	</span>
+            <span class="left">我已经阅读并同意此协议（请使用Apache服务器）</span>
+            <a id='next' href="<?php echo U('stepTwo');?>" class="under-Button left" style='cursor:pointer' >下一步</a>
+        </div>
+    </div>
+    <script src="/Public/Common/js/jquery-1.11.3.min.js"></script>
+
+  
+  <script type="text/javascript" src="/Public/Install/js/index.js"></script>
+ <div class="bottom  width center">
+  <p><a href="http://www.shopsn.net" target="view_window" >ShopsN开源商城官网</a> </p>
+  <p> Powered by ShopsN开源商城 B2C单商户版   www.shopsn.net </p>
+</div>
+</div>
+</body>
+</html>

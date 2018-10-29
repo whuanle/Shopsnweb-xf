@@ -1,0 +1,3 @@
+<?php
+//000000000005a:4:{i:0;a:6:{s:2:"id";s:2:"89";s:17:"config_class_name";s:12:"分销配置";s:4:"p_id";s:1:"0";s:7:"is_open";s:1:"0";s:11:"create_time";s:10:"1537169766";s:11:"update_time";s:10:"1537169766";}i:1;a:6:{s:2:"id";s:2:"90";s:17:"config_class_name";s:40:"分销等级 (如三级分销 填写  3)";s:4:"p_id";s:2:"89";s:7:"is_open";s:1:"0";s:11:"create_time";s:10:"1537169795";s:11:"update_time";s:10:"1537169795";}i:2;a:6:{s:2:"id";s:2:"91";s:17:"config_class_name";s:16:"1级分销比例";s:4:"p_id";s:2:"89";s:7:"is_open";s:1:"0";s:11:"create_time";s:10:"1537169825";s:11:"update_time";s:10:"1537169825";}i:3;a:6:{s:2:"id";s:2:"93";s:17:"config_class_name";s:16:"2级分销比例";s:4:"p_id";s:2:"89";s:7:"is_open";s:1:"0";s:11:"create_time";s:10:"1537171705";s:11:"update_time";s:10:"1537171705";}}
+?>

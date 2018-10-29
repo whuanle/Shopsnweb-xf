@@ -1,0 +1,896 @@
+[ 2018-09-19T15:31:01+08:00 ] 127.0.0.1 /adminprov.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:02+08:00 ] 127.0.0.1 /adminprov.php/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:15+08:00 ] 127.0.0.1 /adminprov.php/Public/check_code?code=bsml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T15:31:23+08:00 ] 127.0.0.1 /adminprov.php/Public/check_code?code=rsml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-09-19T15:31:25+08:00 ] 127.0.0.1 /adminprov.php/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:27+08:00 ] 127.0.0.1 /adminprov.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:29+08:00 ] 127.0.0.1 /adminprov.php/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:30+08:00 ] 127.0.0.1 /adminprov.php/Index/getTodayShopInformation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: count D:\shopsn\Runtime\Cache\Admin\cb2a3056dfdbbb320ffa3516da0f28db.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T15:31:31+08:00 ] 127.0.0.1 /adminprov.php/Index/getAllShopInformation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T15:31:31+08:00 ] 127.0.0.1 /adminprov.php/Order/orderList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:32+08:00 ] 127.0.0.1 /adminprov.php/Invoice/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:33+08:00 ] 127.0.0.1 /adminprov.php/Invoice/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ Search ] --START--
+INFO: Run Common\Behavior\SearParamBehavior [ RunTime:0.002001s ]
+INFO: [ Search ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T15:31:36+08:00 ] 127.0.0.1 /adminprov.php/Order/orderDetail/order_id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:38+08:00 ] 127.0.0.1 /adminprov.php/Order/couponInformation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: c_id D:\shopsn\Application\Admin\Controller\OrderController.class.php 第 136 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: order D:\shopsn\Runtime\Cache\Admin\f2aa00940d3b3356d0ecfa3ad4fbdb86.php 第 6 行.
+NOTIC: [8] Undefined variable: order D:\shopsn\Runtime\Cache\Admin\f2aa00940d3b3356d0ecfa3ad4fbdb86.php 第 17 行.
+NOTIC: [8] Undefined variable: order D:\shopsn\Runtime\Cache\Admin\f2aa00940d3b3356d0ecfa3ad4fbdb86.php 第 25 行.
+NOTIC: [8] Undefined variable: order D:\shopsn\Runtime\Cache\Admin\f2aa00940d3b3356d0ecfa3ad4fbdb86.php 第 26 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T15:31:38+08:00 ] 127.0.0.1 /adminprov.php/Invoice/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:31:39+08:00 ] 127.0.0.1 /adminprov.php/Invoice/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-09-19T15:31:42+08:00 ] 127.0.0.1 /adminprov.php/Invoice/picking/id/8/template/picking
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:33:39+08:00 ] 127.0.0.1 /adminprov.php/Order/orderList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:33:40+08:00 ] 127.0.0.1 /adminprov.php/Order/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ Search ] --START--
+INFO: Run Common\Behavior\SearParamBehavior [ RunTime:0.001000s ]
+INFO: [ Search ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-09-19T15:58:21+08:00 ] 127.0.0.1 /adminprov.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:58:26+08:00 ] 127.0.0.1 /adminprov.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:58:27+08:00 ] 127.0.0.1 /adminprov.php/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:58:29+08:00 ] 127.0.0.1 /adminprov.php/Index/getTodayShopInformation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: count D:\shopsn\Runtime\Cache\Admin\cb2a3056dfdbbb320ffa3516da0f28db.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T15:58:30+08:00 ] 127.0.0.1 /adminprov.php/Index/getAllShopInformation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-09-19T15:58:30+08:00 ] 127.0.0.1 /adminprov.php/Order/orderList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:58:31+08:00 ] 127.0.0.1 /adminprov.php/Order/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+
+[ 2018-09-19T15:58:32+08:00 ] 127.0.0.1 /adminprov.php/Order/orderList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:58:34+08:00 ] 127.0.0.1 /adminprov.php/Order/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+
+[ 2018-09-19T15:58:49+08:00 ] 127.0.0.1 /adminprov.php/Order/orderList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T15:58:51+08:00 ] 127.0.0.1 /adminprov.php/Order/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ Search ] --START--
+INFO: Run Common\Behavior\SearParamBehavior [ RunTime:0.001000s ]
+INFO: [ Search ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:36:42+08:00 ] 127.0.0.1 /adminprov.php/Order/orderList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:36:44+08:00 ] 127.0.0.1 /adminprov.php/Order/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ Search ] --START--
+INFO: Run Common\Behavior\SearParamBehavior [ RunTime:0.002000s ]
+INFO: [ Search ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-09-19T16:36:46+08:00 ] 127.0.0.1 /adminprov.php/Distribution/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:36:47+08:00 ] 127.0.0.1 /adminprov.php/Distribution/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:36:56+08:00 ] 127.0.0.1 /adminprov.php/Distribution/distribution
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: distribution_status D:\shopsn\Application\Admin\Controller\DistributionController.class.php 第 82 行.
+NOTIC: [8] Undefined index: listRows D:\shopsn\Application\Admin\Controller\DistributionController.class.php 第 103 行.
+NOTIC: [8] Undefined index: sum(price_sum) D:\shopsn\Application\Common\Controller\DistributionController.class.php 第 216 行.
+
+[ 2018-09-19T16:36:58+08:00 ] 127.0.0.1 /adminprov.php/Distribution/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:43:58+08:00 ] 127.0.0.1 /adminprov.php/Distribution/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:44:00+08:00 ] 127.0.0.1 /adminprov.php/Distribution/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:44:57+08:00 ] 127.0.0.1 /adminprov.php/Invoice/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:44:59+08:00 ] 127.0.0.1 /adminprov.php/Invoice/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ Search ] --START--
+INFO: Run Common\Behavior\SearParamBehavior [ RunTime:0.001000s ]
+INFO: [ Search ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 34 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+NOTIC: [8] Undefined index: order_id D:\shopsn\Runtime\Cache\Admin\0f947fb3be48958af08d84face1a532a.php 第 43 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:44:59+08:00 ] 127.0.0.1 /adminprov.php/Distribution/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:45:00+08:00 ] 127.0.0.1 /adminprov.php/Distribution/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:45:05+08:00 ] 127.0.0.1 /adminprov.php/Admin/admin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:45:10+08:00 ] 127.0.0.1 /adminprov.php/Admin/auth_rule
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:45:13+08:00 ] 127.0.0.1 /adminprov.php/System/config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:45:19+08:00 ] 127.0.0.1 /adminprov.php/System/config/p/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:45:21+08:00 ] 127.0.0.1 /adminprov.php/System/editConfig/id/44
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:45:25+08:00 ] 127.0.0.1 /adminprov.php/System/config/p/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:45:28+08:00 ] 127.0.0.1 /adminprov.php/System/isHaveClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Admin\Model\ConfigClassModel::add($data, Think\Model $model, $options = Array, $replace = false) should be compatible with Common\Model\BaseModel::add($data = '', $options = Array, $replace = false) D:\shopsn\Application\Admin\Model\ConfigClassModel.class.php 第 22 行.
+NOTIC: [2] Declaration of Admin\Model\ConfigClassModel::save($data, Think\Model $model, $options = Array) should be compatible with Common\Model\BaseModel::save($data = '', $options = Array) D:\shopsn\Application\Admin\Model\ConfigClassModel.class.php 第 22 行.
+NOTIC: [2] Declaration of Admin\Model\ConfigClassModel::delete($options, Think\Model $model) should be compatible with Think\Model::delete($options = Array) D:\shopsn\Application\Admin\Model\ConfigClassModel.class.php 第 22 行.
+
+[ 2018-09-19T16:45:30+08:00 ] 127.0.0.1 /adminprov.php/System/delConfig
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\ConfigClassModel::add($data, Think\Model $model, $options = Array, $replace = false) should be compatible with Common\Model\BaseModel::add($data = '', $options = Array, $replace = false) D:\shopsn\Application\Admin\Model\ConfigClassModel.class.php 第 22 行.
+NOTIC: [2] Declaration of Admin\Model\ConfigClassModel::save($data, Think\Model $model, $options = Array) should be compatible with Common\Model\BaseModel::save($data = '', $options = Array) D:\shopsn\Application\Admin\Model\ConfigClassModel.class.php 第 22 行.
+NOTIC: [2] Declaration of Admin\Model\ConfigClassModel::delete($options, Think\Model $model) should be compatible with Think\Model::delete($options = Array) D:\shopsn\Application\Admin\Model\ConfigClassModel.class.php 第 22 行.
+INFO: [ deleteDataInsertLog ] --START--
+INFO: Run Common\Behavior\AddLogData [ RunTime:0.051003s ]
+INFO: [ deleteDataInsertLog ] --END-- [ RunTime:0.051003s ]
+
+[ 2018-09-19T16:45:33+08:00 ] 127.0.0.1 /adminprov.php/System/config/p/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:45:36+08:00 ] 127.0.0.1 /adminprov.php/SysConfig/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:46:07+08:00 ] 127.0.0.1 /adminprov.php/Order/orderList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:46:08+08:00 ] 127.0.0.1 /adminprov.php/Order/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ Search ] --START--
+INFO: Run Common\Behavior\SearParamBehavior [ RunTime:0.001000s ]
+INFO: [ Search ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:46:08+08:00 ] 127.0.0.1 /adminprov.php/Distribution/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:46:10+08:00 ] 127.0.0.1 /adminprov.php/Distribution/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:46:24+08:00 ] 127.0.0.1 /adminprov.php/Distribution/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:52:41+08:00 ] 127.0.0.1 /adminprov.php/Admin/admin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:52:47+08:00 ] 127.0.0.1 /adminprov.php/SysConfig/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:53:10+08:00 ] 127.0.0.1 /adminprov.php/SysConfig/saveConfig
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ UpdateLogStart ] --START--
+NOTIC: [8] Undefined index: edit_colums D:\shopsn\Application\Admin\Model\LogModel.class.php 第 117 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\shopsn\Application\Admin\Model\LogModel.class.php 第 117 行.
+NOTIC: [8] Undefined index: table_id D:\shopsn\Application\Admin\Model\LogModel.class.php 第 117 行.
+INFO: Run Common\Behavior\UpdateLogBehavior [ RunTime:0.031002s ]
+NOTIC: [8] Undefined index: parent_key D:\shopsn\Application\Admin\Model\SystemConfigModel.class.php 第 154 行.
+INFO: [ UpdateLogEnd ] --START--
+INFO: Run Common\Behavior\UpdateLogEndBehavior [ RunTime:0.017001s ]
+
+[ 2018-09-19T16:53:12+08:00 ] 127.0.0.1 /adminprov.php/SysConfig/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:55:03+08:00 ] 127.0.0.1 /adminprov.php/Goods/goods_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:55:08+08:00 ] 127.0.0.1 /adminprov.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:55:09+08:00 ] 127.0.0.1 /adminprov.php/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:55:10+08:00 ] 127.0.0.1 /adminprov.php/Index/getTodayShopInformation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: count D:\shopsn\Runtime\Cache\Admin\cb2a3056dfdbbb320ffa3516da0f28db.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-09-19T16:55:12+08:00 ] 127.0.0.1 /adminprov.php/Index/getAllShopInformation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-09-19T16:57:32+08:00 ] 127.0.0.1 /adminprov.php/Order/orderList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-09-19T16:57:34+08:00 ] 127.0.0.1 /adminprov.php/Order/ajaxGetData?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getOrder($userAddress, $field = NULL, $default = 'select') should be compatible with Common\Model\BaseModel::getOrder() D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+NOTIC: [2] Declaration of Admin\Model\OrderModel::getData($where = NULL) should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Admin\Model\OrderModel.class.php 第 23 行.
+INFO: [ Search ] --START--
+INFO: Run Common\Behavior\SearParamBehavior [ RunTime:0.001000s ]
+INFO: [ Search ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Admin\87599b4e7b3dad4b5be0f0268dd45ff3.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+

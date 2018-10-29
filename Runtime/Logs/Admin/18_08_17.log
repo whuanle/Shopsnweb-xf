@@ -1,0 +1,86 @@
+[ 2018-08-17T18:05:52+08:00 ] 127.0.0.1 /adminprov.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:05:52+08:00 ] 127.0.0.1 /adminprov.php/Public/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:06:00+08:00 ] 127.0.0.1 /adminprov.php/Public/verify/time/0.5777392909666901
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:06:01+08:00 ] 127.0.0.1 /adminprov.php/Public/verify/time/0.9252440923620866
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:06:04+08:00 ] 127.0.0.1 /adminprov.php/Public/check_code?code=yhan
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-08-17T18:06:07+08:00 ] 127.0.0.1 /adminprov.php/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:06:09+08:00 ] 127.0.0.1 /adminprov.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:06:10+08:00 ] 127.0.0.1 /adminprov.php/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:06:11+08:00 ] 127.0.0.1 /adminprov.php/Admin/admin_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:06:15+08:00 ] 127.0.0.1 /adminprov.php/SysConfig/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+
+[ 2018-08-17T18:06:40+08:00 ] 127.0.0.1 /adminprov.php/SysConfig/saveConfig
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ UpdateLogStart ] --START--
+NOTIC: [8] Undefined index: edit_colums D:\shopsn\Application\Admin\Model\LogModel.class.php 第 117 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\shopsn\Application\Admin\Model\LogModel.class.php 第 117 行.
+NOTIC: [8] Undefined index: table_id D:\shopsn\Application\Admin\Model\LogModel.class.php 第 117 行.
+INFO: Run Common\Behavior\UpdateLogBehavior [ RunTime:0.037002s ]
+NOTIC: [8] Undefined index: parent_key D:\shopsn\Application\Admin\Model\SystemConfigModel.class.php 第 154 行.
+INFO: [ UpdateLogEnd ] --START--
+INFO: Run Common\Behavior\UpdateLogEndBehavior [ RunTime:0.023002s ]
+
+[ 2018-08-17T18:06:43+08:00 ] 127.0.0.1 /adminprov.php/SysConfig/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant UPLOAD_PATH already defined D:\shopsn\Application\Admin\Conf\config.php 第 2 行.
+

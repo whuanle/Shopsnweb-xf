@@ -1,0 +1,123 @@
+<extend name="Order/personalEdit"/>
+
+<!-- 清空头部广告 -->
+<block name="ad_top"></block>
+
+<block name='content'>
+	<div class="person-section clearfix">
+		<!--左分类-->
+        <include file="Public/assets_header"/>
+		<!--内容-->
+		<div class="mordrMain fr otheros-content-wrap">
+			<div class="title clearfix">
+				<ul class="clearfix fl nav">
+					<li class="fl active hover"><a href="javascript:;">以出兑账单</a></li>
+				</ul>
+			</div>
+			<div class="con-wrap clearfix">
+				<div class="notes clearfix">
+					<span class="fl">{$user.id}&nbsp;&nbsp;&nbsp;{$user.user_name}</span>
+					<form action="{:U('Finance/closed_order_search')}" method="post" onsubmit="return check()">
+					<div class="searchInput fr clearfix">
+						<input type="text" name="name" id="name" class="fl txt" placeholder="客户名称,月份(0000-00)">
+						<input type="submit" value="查询" class="btn fl">
+					</div>
+					</form>
+				</div>
+				<dl class="my-content-main">
+					<dt class="clearfix">
+						<span class="fl w50"></span>
+						<span class="fl w240">客户名称</span>
+						<span class="fl w120">年月</span>
+						<span class="fl w200">总支出</span>
+						<span class="fl w200">总收入</span>
+						<span class="fl w200">总余额</span>
+					</dt>
+					<empty name="data">
+						<dd class="clearfix">
+							<div style="width:100%;text-align:center;font-size:20px;">暂时没有信息哦!</div>
+						</dd>
+					<else/>
+					<volist name="data" id="vo">
+						<dd class="clearfix">
+							<span class="fl w50"><em></em></span>
+							<span class="fl w240">{$vo.user_name}</span>
+							<span class="fl w120">{$vo.create_time|date="Y年m月",###}</span>
+							<span class="fl w200">{$vo.expenditure}</span>
+							<span class="fl w200">{$vo.income}</span>
+							<span class="fl w200 border-rnone">{$vo.balance}</span>
+							<div class="fl hide-main">
+								<table>
+									<tr>
+										<th width="60">序号</th>
+										<th width="90">订单编号</th>
+										<th width="300">商品名称</th>
+										<th>含税单价</th>
+										<th>数量</th>
+										<th>含税金额</th>
+										<th>付款条件</th>
+										<th>日期</th>
+										<th width="200">备注</th>
+									</tr>
+									<volist name="vo.goods" id="goods" key="key">
+										<tr>
+											<td>{$key}</td>
+											<td>{$goods.goods_order_id}</td>
+											<td>{$goods.title}</td>
+											<td>￥{$goods.goods_price}</td>
+											<td>{$goods.goods_num}</td>
+											<td>{$goods.goods_price_num}</td>
+											<td>
+                                            	<switch name="goods.goods_pay_type">
+                                            		<case value="0">在线支付</case>
+				                                	<case value="1">线下刷POSS机</case>
+				                                	<case value="2">对公转账</case>
+                                            	</switch>
+											</td>
+											<td>{$goods.add_time|date="Y-m-d",###}</td>
+											<td>{$goods.goods_remarks|substr=0,60}</td>
+										</tr>
+									</volist>
+								</table>
+							</div>
+						</dd>
+					</volist>
+					</empty>
+				</dl>
+				<div class="cute"></div>
+				<div class="page">{$page}</div>
+				<div class="reminder">温馨提示：本期账单仅供您作为对账参考，最终数据以SAP提供的为准，如有疑问请联系我们的在线客服。</div>
+			</div>
+		</div>
+		<!--右侧一键到顶 and 客服-->
+		<include file="Order/personalHomeTop"/>
+	</div>
+	<!--尾部-->
+	
+<!-- <script src="js/header.js"></script> -->
+<script src="__JS__/page.js"></script>
+<script>
+	function check(){
+		var name = $('#name').val();
+		if (name == '') {
+			layer.tips('不能为空!','#name',{
+        	 tips:[4,'#f29202']
+        });
+			return false;
+		};
+		return true;
+	}
+
+
+	var aEm = $('.otheros-content-wrap .my-content-main dd span em');
+	var aHide = $('.otheros-content-wrap .my-content-main dd .hide-main');
+	aEm.on('click',function(){
+		$(this).parent().toggleClass('active');
+		$('.otheros-content-wrap .my-content-main dd').eq($(this).parents('dd').index()).toggleClass('active');
+		aHide.eq($(this).parents('dd').index()-1).toggleClass('active');
+		if($(this).parents('dd').index() == $('.otheros-content-wrap .my-content-main dd').length){
+			$('.otheros-content-wrap .con-wrap .cute').toggleClass('active');
+		}
+	});
+</script>
+</block>

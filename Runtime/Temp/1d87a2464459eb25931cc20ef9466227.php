@@ -1,0 +1,3 @@
+<?php
+//000000000015a:1:{i:0;a:15:{s:2:"id";s:3:"134";s:5:"title";s:6:"香水";s:7:"ad_link";s:0:"";s:7:"pic_url";s:40:"/Uploads/ad/2017/06-28/5953507a33277.jpg";s:11:"create_time";N;s:8:"sort_num";s:2:"50";s:11:"ad_space_id";s:2:"35";s:11:"update_time";N;s:8:"platform";s:1:"1";s:9:"color_val";s:7:"#000000";s:4:"type";N;s:10:"start_time";s:10:"1498579200";s:8:"end_time";s:10:"1718985600";s:7:"enabled";s:1:"1";s:7:"hit_num";s:1:"0";}}
+?>

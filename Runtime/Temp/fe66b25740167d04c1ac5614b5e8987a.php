@@ -1,0 +1,3 @@
+<?php
+//000000000006a:4:{i:1;a:5:{s:2:"id";s:1:"1";s:9:"type_name";s:12:"微信支付";s:6:"status";s:1:"1";s:10:"is_default";s:1:"1";s:10:"is_special";N;}i:2;a:5:{s:2:"id";s:1:"2";s:9:"type_name";s:9:"支付宝";s:6:"status";s:1:"1";s:10:"is_default";s:1:"0";s:10:"is_special";N;}i:3;a:5:{s:2:"id";s:1:"3";s:9:"type_name";s:6:"银联";s:6:"status";s:1:"1";s:10:"is_default";s:1:"0";s:10:"is_special";N;}i:4;a:5:{s:2:"id";s:1:"4";s:9:"type_name";s:12:"余额支付";s:6:"status";s:1:"1";s:10:"is_default";s:1:"0";s:10:"is_special";s:1:"0";}}
+?>

@@ -1,0 +1,3 @@
+<?php
+//000000000100a:1:{i:66;a:10:{s:12:"intnet_title";s:42:"ShopsN五核全网开源电商系统演示";s:12:"intnet_phone";s:11:"400-800-900";s:12:"internet_url";s:13:"www.shopsn.ne";s:16:"internet_address";s:27:"上海市闵行区浦江镇";s:14:"internet_email";s:14:"idchome@qq.com";s:13:"record_number";s:12:"wx4556464654";s:9:"logo_name";s:44:"/Uploads/intnet/2017-07-04/595b7606b43fa.png";s:12:"init_qr_code";s:35:"/Uploads/qrCode/153752005468134.png";s:13:"init_key_word";s:57:"开源电子商城，b2c商城，免费电子商城系统";s:18:"intnet_description";s:123:"ShopsN全网开源电子商城允许在保留底部版权标志情况下永久免费商业使用，无任何功能限制。";}}
+?>

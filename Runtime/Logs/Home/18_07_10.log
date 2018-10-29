@@ -1,0 +1,2515 @@
+[ 2018-07-10T14:42:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:42:33+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T14:42:35+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-07-10T14:42:41+08:00 ] 127.0.0.1 /index.php/Home/UserData/user_data.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:42:42+08:00 ] 127.0.0.1 /index.php/Home/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:42:56+08:00 ] 127.0.0.1 /index.php/Home/Public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:43:00+08:00 ] 127.0.0.1 /index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:43:01+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T14:43:02+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.002000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T14:43:04+08:00 ] 127.0.0.1 /index.php/Home/UserData/user_data.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:43:05+08:00 ] 127.0.0.1 /index.php/Home/UserData/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:43:12+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:43:13+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2018-07-10T14:43:15+08:00 ] 127.0.0.1 /index.php/Home/Assets/integral.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:43:16+08:00 ] 127.0.0.1 /index.php/Home/Assets/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:43:41+08:00 ] 127.0.0.1 /index.php/Home/UserData/user_data.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:43:43+08:00 ] 127.0.0.1 /index.php/Home/UserData/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:46:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:47:00+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:01+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T14:47:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:14+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T14:47:15+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:47:16+08:00 ] 127.0.0.1 /index.php/Home/UserData/user_data.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:18+08:00 ] 127.0.0.1 /index.php/Home/UserData/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T14:47:20+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T14:47:22+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:23+08:00 ] 127.0.0.1 /index.php/Home/Order/order_myorder.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:47:25+08:00 ] 127.0.0.1 /index.php/Home/Order/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:27+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:28+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-07-10T14:47:29+08:00 ] 127.0.0.1 /index.php/Home/Assets/myCollection.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T14:47:31+08:00 ] 127.0.0.1 /index.php/Home/Assets/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:33+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:34+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T14:47:35+08:00 ] 127.0.0.1 /index.php/Home/Assets/integral.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:37+08:00 ] 127.0.0.1 /index.php/Home/Assets/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T14:47:39+08:00 ] 127.0.0.1 /index.php/Home/Index/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T14:47:40+08:00 ] 127.0.0.1 /index.php/Home/Index/banner.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T15:19:30+08:00 ] 127.0.0.1 /index.php/Home/IndexClass/getGoodsClass.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:19:33+08:00 ] 127.0.0.1 /index.php/Home/Goods/goodsDetails/id/3603.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:19:34+08:00 ] 127.0.0.1 /index.php/Home/IndexClass/getGoodsClass.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Home\Controller\IndexClassController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 1 D:\shopsn\Application\Home\Controller\IndexClassController.class.php 第 46 行.
+
+[ 2018-07-10T15:19:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:19:37+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:19:39+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:24:56+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:30:54+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:31:13+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T15:31:31+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:32:06+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:34:17+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:34:43+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:38:35+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T15:39:25+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2018-07-10T15:40:29+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:41:46+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 参数错误或者未定义:spec_id
+
+[ 2018-07-10T15:42:17+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:42:30+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:42:40+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:42:50+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:43:34+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T15:43:51+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:46:44+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:53:28+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T15:54:56+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:54:58+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T15:57:55+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T15:57:57+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T15:59:28+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:00:07+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:00:43+08:00 ] 127.0.0.1 /index.php/Home/Product/goodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:00:54+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:00:56+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:07:38+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%BD%A9%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.002000s ]
+INFO: [ reade ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 107 行.
+
+[ 2018-07-10T16:12:01+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:12:03+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:16:36+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:20:39+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:20:51+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:21:21+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T16:21:39+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T16:22:29+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T16:23:00+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T16:23:07+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:24:24+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` like %468% or `key` like %475% )' at line 1
+
+[ 2018-07-10T16:24:44+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%468% or `key` like %475% )' at line 1
+
+[ 2018-07-10T16:28:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T16:29:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T16:52:17+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:52:52+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:53:11+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:53:42+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:54:16+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:55:29+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:55:40+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:55:42+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T16:55:50+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E4%BA%8C%E8%81%94%2F%E6%97%A0%E7%AD%89%E5%88%86&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T16:55:56+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E4%BA%8C%E8%81%94%2F%E6%97%A0%E7%AD%89%E5%88%86&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T16:55:59+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E4%BA%8C%E8%81%94%2F%E6%97%A0%E7%AD%89%E5%88%86&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T16:56:31+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%93%B6%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.003000s ]
+INFO: [ reade ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T16:56:35+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%BB%91%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T16:56:37+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%BB%84%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T16:56:38+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E8%93%9D%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T16:56:40+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%A4%A7%E7%BA%A2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T16:56:42+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E4%B8%80%E8%81%94%E4%BA%8C%E7%AD%89%E5%88%86&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T16:56:43+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%8D%A1&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T16:58:40+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E6%98%8E%E4%B8%BD%E8%93%9D&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.001000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+NOTIC: [8] Array to string conversion D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+
+[ 2018-07-10T17:00:41+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:01:21+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E7%B1%B3%E7%99%BD&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.001000s ]
+INFO: [ reade ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:01:28+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E6%B7%B1%E6%A3%95&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:01:44+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E4%BA%8C%E8%81%94%2F%E6%97%A0%E7%AD%89%E5%88%86&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:01:57+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E4%B8%80%E8%81%94%E4%BA%8C%E7%AD%89%E5%88%86&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.001000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:02:00+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%BB%91%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:02:02+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=all&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:02:06+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E7%BA%A2%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:02:11+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=all&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:03:33+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:03:36+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:03:41+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%80%8F%E6%98%8E&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:03:44+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E6%A9%99%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:03:46+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=all&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:06:24+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%9C%9F%E6%A3%95%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.001000s ]
+INFO: [ reade ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:06:44+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:06:46+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:06:53+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E8%93%9D%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:06:57+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=all&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.001000s ]
+INFO: [ reade ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:06:58+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=all&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:07:00+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E7%BA%A2%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:07:01+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%BB%91%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:07:03+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E7%AD%92&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:07:05+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E8%93%9D%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:07:13+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E8%93%9D%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:07:18+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%BB%91%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:08:06+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=20-39&goods_spec=%E9%BB%91%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.002000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+
+[ 2018-07-10T17:11:58+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=20-39&goods_spec=all&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.001000s ]
+INFO: [ reade ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+
+[ 2018-07-10T17:12:01+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=20-39&goods_spec=%E7%BA%A2%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+
+[ 2018-07-10T17:13:35+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:13:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:13:39+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:13:45+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%A2%9C%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:14:28+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:14:30+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T17:18:30+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T17:18:32+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:18:36+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E6%B5%85%E6%A3%95&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:18:53+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E8%93%9D%E8%89%B2&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:20:55+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T17:20:57+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:21:00+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%8C%855%E5%8C%85%2F%E7%AE%B18%E5%8C%85%2F%E7%AE%B110%E5%8C%85%2F%E7%AE%B14%E5%8C%85%2F%E7%AE%B124%E5%8D%B7%2F%E7%AE%B1%E7%AD%924%E5%8D%B7%2F%E7%AD%924%E5%8D%B7%2F%E5%8C%8525%E5%8C%85%2F%E7%AE%B112%E6%94%AF%2F%E7%9B%9230%E6%94%AF%2F%E7%AD%92%E5%9D%97%E6%94%AF%E5%8F%AA%E6%A1%B612%E6%94%AF%2F%E6%A1%B636%E8%89%B2%2F%E7%AD%92%E5%8D%A13%E6%94%AF%2F%E5%8D%A1%E7%93%B610%E6%94%AF%2F%E7%9B%9224%E6%94%AF%2F%E7%9B%9260%E6%94%AF%2F%E7%9B%925%E6%94%AF%2F%E5%8D%A120%E6%94%AF%2F%E7%9B%9230%E5%9D%97%2F%E7%9B%92216%E5%8D%B7%2F%E7%AE%B1%E7%9B%9220%E6%A0%B9%2F%E7%9B%9210%E6%94%AF%2F%E5%8C%85%E5%8F%B0(12%2B12%2F%E5%8D%A1)36%E6%94%AF%2F%E7%9B%92%E4%B8%AA%E5%A5%97%E6%8F%9010%E6%8F%90%2F%E7%AE%B112%E6%94%AF%2F%E7%AD%9212%E7%93%B6%2F%E7%9B%9220%E7%93%B6%2F%E7%9B%9257*50mm%2F%E7%AD%92%2F4%E5%8D%B780*50mm%2F%E7%AD%92%2F4%E5%8D%B780*60mm%2F%E7%AD%92%2F4%E5%8D%B74%E6%94%AF%2F%E5%8D%A1%E8%A2%8B18%E5%8C%85%2F%E7%AE%B1%E5%9C%9F%E6%A3%95%E8%8A%8220%E7%93%B6%2F%E7%AE%B1%E6%9C%AC50%E7%89%87%2F%E7%AD%92%E6%9D%A120%E5%8F%AA%2F%E5%8C%8510%E5%8F%AA%2F%E5%8C%8530%E5%8F%AA%2F%E5%8C%8540%E5%8F%AA%2F%E5%8C%8550%E5%8F%AA%2F%E5%8C%856%E6%94%AF%2F%E7%9B%92%E6%8A%8A2%E7%89%87%2F%E4%BB%98%E4%BB%9810%E7%9B%92%2F%E5%8C%8524%E7%93%B6%2F%E7%9B%92100%E5%8F%AA%2F%E5%8C%85100%E4%B8%AA%2F%E5%8C%8516%E5%8D%B7%2F%E5%8C%85%E5%8D%B712%E5%8D%B7%2F%E8%A2%8B24%E5%8D%B7%2F%E8%A2%8B32%E5%8D%B7%2F%E8%A2%8B8%E5%8D%B7%2F%E7%AD%9212%E5%8D%B7%2F%E7%AD%926%E5%8D%B7%2F%E7%AD%92%E9%9D%A210%E4%B8%AA%2F%E5%8C%854%E5%8C%85%2F%E7%9B%9240%E5%A5%97%2F%E7%9B%9250%E5%8F%AA%2F%E7%9B%9240%E5%8F%AA%2F%E7%9B%9225%E6%94%AF%2F%E5%8C%8525%E5%8F%AA%2F%E5%8C%8512%E5%8F%AA%2F%E5%8C%85%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:21:20+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%8C%85%E7%AE%B15%E5%8C%85%2F%E7%AE%B18%E5%8C%85%2F%E7%AE%B110%E5%8C%85%2F%E7%AE%B14%E5%8C%85%2F%E7%AE%B124%E5%8D%B7%2F%E7%AE%B1%E7%AD%924%E5%8D%B7%2F%E7%AD%924%E5%8D%B7%2F%E5%8C%8525%E5%8C%85%2F%E7%AE%B112%E6%94%AF%2F%E7%9B%9230%E6%94%AF%2F%E7%AD%92%E5%9D%97%E6%94%AF%E5%8F%AA%E6%A1%B612%E6%94%AF%2F%E6%A1%B636%E8%89%B2%2F%E7%AD%92%E5%8D%A13%E6%94%AF%2F%E5%8D%A1%E7%93%B610%E6%94%AF%2F%E7%9B%9224%E6%94%AF%2F%E7%9B%9260%E6%94%AF%2F%E7%9B%925%E6%94%AF%2F%E5%8D%A120%E6%94%AF%2F%E7%9B%9230%E5%9D%97%2F%E7%9B%92216%E5%8D%B7%2F%E7%AE%B1%E7%9B%9220%E6%A0%B9%2F%E7%9B%9210%E6%94%AF%2F%E5%8C%85%E5%8F%B0(12%2B12%2F%E5%8D%A1)36%E6%94%AF%2F%E7%9B%92%E4%B8%AA%E5%A5%97%E6%8F%9010%E6%8F%90%2F%E7%AE%B112%E6%94%AF%2F%E7%AD%9212%E7%93%B6%2F%E7%9B%9220%E7%93%B6%2F%E7%9B%9257*50mm%2F%E7%AD%92%2F4%E5%8D%B780*50mm%2F%E7%AD%92%2F4%E5%8D%B780*60mm%2F%E7%AD%92%2F4%E5%8D%B74%E6%94%AF%2F%E5%8D%A1%E8%A2%8B18%E5%8C%85%2F%E7%AE%B1%E5%9C%9F%E6%A3%95%E8%8A%8220%E7%93%B6%2F%E7%AE%B1%E6%9C%AC50%E7%89%87%2F%E7%AD%92%E6%9D%A120%E5%8F%AA%2F%E5%8C%8510%E5%8F%AA%2F%E5%8C%8530%E5%8F%AA%2F%E5%8C%8540%E5%8F%AA%2F%E5%8C%8550%E5%8F%AA%2F%E5%8C%856%E6%94%AF%2F%E7%9B%92%E6%8A%8A2%E7%89%87%2F%E4%BB%98%E4%BB%9810%E7%9B%92%2F%E5%8C%8524%E7%93%B6%2F%E7%9B%92100%E5%8F%AA%2F%E5%8C%85100%E4%B8%AA%2F%E5%8C%8516%E5%8D%B7%2F%E5%8C%85%E5%8D%B712%E5%8D%B7%2F%E8%A2%8B24%E5%8D%B7%2F%E8%A2%8B32%E5%8D%B7%2F%E8%A2%8B8%E5%8D%B7%2F%E7%AD%9212%E5%8D%B7%2F%E7%AD%926%E5%8D%B7%2F%E7%AD%92%E9%9D%A210%E4%B8%AA%2F%E5%8C%854%E5%8C%85%2F%E7%9B%9240%E5%A5%97%2F%E7%9B%9250%E5%8F%AA%2F%E7%9B%9240%E5%8F%AA%2F%E7%9B%9225%E6%94%AF%2F%E5%8C%8525%E5%8F%AA%2F%E5%8C%8512%E5%8F%AA%2F%E5%8C%85%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:21:22+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%8C%85%E7%AE%B15%E5%8C%85%2F%E7%AE%B18%E5%8C%85%2F%E7%AE%B110%E5%8C%85%2F%E7%AE%B14%E5%8C%85%2F%E7%AE%B124%E5%8D%B7%2F%E7%AE%B1%E7%AD%924%E5%8D%B7%2F%E7%AD%924%E5%8D%B7%2F%E5%8C%8525%E5%8C%85%2F%E7%AE%B112%E6%94%AF%2F%E7%9B%9230%E6%94%AF%2F%E7%AD%92%E5%9D%97%E6%94%AF%E5%8F%AA%E6%A1%B612%E6%94%AF%2F%E6%A1%B636%E8%89%B2%2F%E7%AD%92%E5%8D%A13%E6%94%AF%2F%E5%8D%A1%E7%93%B610%E6%94%AF%2F%E7%9B%9224%E6%94%AF%2F%E7%9B%9260%E6%94%AF%2F%E7%9B%925%E6%94%AF%2F%E5%8D%A120%E6%94%AF%2F%E7%9B%9230%E5%9D%97%2F%E7%9B%92216%E5%8D%B7%2F%E7%AE%B1%E7%9B%9220%E6%A0%B9%2F%E7%9B%9210%E6%94%AF%2F%E5%8C%85%E5%8F%B0(12%2B12%2F%E5%8D%A1)36%E6%94%AF%2F%E7%9B%92%E4%B8%AA%E5%A5%97%E6%8F%9010%E6%8F%90%2F%E7%AE%B112%E6%94%AF%2F%E7%AD%9212%E7%93%B6%2F%E7%9B%9220%E7%93%B6%2F%E7%9B%9257*50mm%2F%E7%AD%92%2F4%E5%8D%B780*50mm%2F%E7%AD%92%2F4%E5%8D%B780*60mm%2F%E7%AD%92%2F4%E5%8D%B74%E6%94%AF%2F%E5%8D%A1%E8%A2%8B18%E5%8C%85%2F%E7%AE%B1%E5%9C%9F%E6%A3%95%E8%8A%8220%E7%93%B6%2F%E7%AE%B1%E6%9C%AC50%E7%89%87%2F%E7%AD%92%E6%9D%A120%E5%8F%AA%2F%E5%8C%8510%E5%8F%AA%2F%E5%8C%8530%E5%8F%AA%2F%E5%8C%8540%E5%8F%AA%2F%E5%8C%8550%E5%8F%AA%2F%E5%8C%856%E6%94%AF%2F%E7%9B%92%E6%8A%8A2%E7%89%87%2F%E4%BB%98%E4%BB%9810%E7%9B%92%2F%E5%8C%8524%E7%93%B6%2F%E7%9B%92100%E5%8F%AA%2F%E5%8C%85100%E4%B8%AA%2F%E5%8C%8516%E5%8D%B7%2F%E5%8C%85%E5%8D%B712%E5%8D%B7%2F%E8%A2%8B24%E5%8D%B7%2F%E8%A2%8B32%E5%8D%B7%2F%E8%A2%8B8%E5%8D%B7%2F%E7%AD%9212%E5%8D%B7%2F%E7%AD%926%E5%8D%B7%2F%E7%AD%92%E9%9D%A210%E4%B8%AA%2F%E5%8C%854%E5%8C%85%2F%E7%9B%9240%E5%A5%97%2F%E7%9B%9250%E5%8F%AA%2F%E7%9B%9240%E5%8F%AA%2F%E7%9B%9225%E6%94%AF%2F%E5%8C%8525%E5%8F%AA%2F%E5%8C%8512%E5%8F%AA%2F%E5%8C%85%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:21:23+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%8C%85%E7%AE%B15%E5%8C%85%2F%E7%AE%B18%E5%8C%85%2F%E7%AE%B110%E5%8C%85%2F%E7%AE%B14%E5%8C%85%2F%E7%AE%B124%E5%8D%B7%2F%E7%AE%B1%E7%AD%924%E5%8D%B7%2F%E7%AD%924%E5%8D%B7%2F%E5%8C%8525%E5%8C%85%2F%E7%AE%B112%E6%94%AF%2F%E7%9B%9230%E6%94%AF%2F%E7%AD%92%E5%9D%97%E6%94%AF%E5%8F%AA%E6%A1%B612%E6%94%AF%2F%E6%A1%B636%E8%89%B2%2F%E7%AD%92%E5%8D%A13%E6%94%AF%2F%E5%8D%A1%E7%93%B610%E6%94%AF%2F%E7%9B%9224%E6%94%AF%2F%E7%9B%9260%E6%94%AF%2F%E7%9B%925%E6%94%AF%2F%E5%8D%A120%E6%94%AF%2F%E7%9B%9230%E5%9D%97%2F%E7%9B%92216%E5%8D%B7%2F%E7%AE%B1%E7%9B%9220%E6%A0%B9%2F%E7%9B%9210%E6%94%AF%2F%E5%8C%85%E5%8F%B0(12%2B12%2F%E5%8D%A1)36%E6%94%AF%2F%E7%9B%92%E4%B8%AA%E5%A5%97%E6%8F%9010%E6%8F%90%2F%E7%AE%B112%E6%94%AF%2F%E7%AD%9212%E7%93%B6%2F%E7%9B%9220%E7%93%B6%2F%E7%9B%9257*50mm%2F%E7%AD%92%2F4%E5%8D%B780*50mm%2F%E7%AD%92%2F4%E5%8D%B780*60mm%2F%E7%AD%92%2F4%E5%8D%B74%E6%94%AF%2F%E5%8D%A1%E8%A2%8B18%E5%8C%85%2F%E7%AE%B1%E5%9C%9F%E6%A3%95%E8%8A%8220%E7%93%B6%2F%E7%AE%B1%E6%9C%AC50%E7%89%87%2F%E7%AD%92%E6%9D%A120%E5%8F%AA%2F%E5%8C%8510%E5%8F%AA%2F%E5%8C%8530%E5%8F%AA%2F%E5%8C%8540%E5%8F%AA%2F%E5%8C%8550%E5%8F%AA%2F%E5%8C%856%E6%94%AF%2F%E7%9B%92%E6%8A%8A2%E7%89%87%2F%E4%BB%98%E4%BB%9810%E7%9B%92%2F%E5%8C%8524%E7%93%B6%2F%E7%9B%92100%E5%8F%AA%2F%E5%8C%85100%E4%B8%AA%2F%E5%8C%8516%E5%8D%B7%2F%E5%8C%85%E5%8D%B712%E5%8D%B7%2F%E8%A2%8B24%E5%8D%B7%2F%E8%A2%8B32%E5%8D%B7%2F%E8%A2%8B8%E5%8D%B7%2F%E7%AD%9212%E5%8D%B7%2F%E7%AD%926%E5%8D%B7%2F%E7%AD%92%E9%9D%A210%E4%B8%AA%2F%E5%8C%854%E5%8C%85%2F%E7%9B%9240%E5%A5%97%2F%E7%9B%9250%E5%8F%AA%2F%E7%9B%9240%E5%8F%AA%2F%E7%9B%9225%E6%94%AF%2F%E5%8C%8525%E5%8F%AA%2F%E5%8C%8512%E5%8F%AA%2F%E5%8C%85%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:21:25+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%8C%85%E7%AE%B15%E5%8C%85%2F%E7%AE%B18%E5%8C%85%2F%E7%AE%B110%E5%8C%85%2F%E7%AE%B14%E5%8C%85%2F%E7%AE%B124%E5%8D%B7%2F%E7%AE%B1%E7%AD%924%E5%8D%B7%2F%E7%AD%924%E5%8D%B7%2F%E5%8C%8525%E5%8C%85%2F%E7%AE%B112%E6%94%AF%2F%E7%9B%9230%E6%94%AF%2F%E7%AD%92%E5%9D%97%E6%94%AF%E5%8F%AA%E6%A1%B612%E6%94%AF%2F%E6%A1%B636%E8%89%B2%2F%E7%AD%92%E5%8D%A13%E6%94%AF%2F%E5%8D%A1%E7%93%B610%E6%94%AF%2F%E7%9B%9224%E6%94%AF%2F%E7%9B%9260%E6%94%AF%2F%E7%9B%925%E6%94%AF%2F%E5%8D%A120%E6%94%AF%2F%E7%9B%9230%E5%9D%97%2F%E7%9B%92216%E5%8D%B7%2F%E7%AE%B1%E7%9B%9220%E6%A0%B9%2F%E7%9B%9210%E6%94%AF%2F%E5%8C%85%E5%8F%B0(12%2B12%2F%E5%8D%A1)36%E6%94%AF%2F%E7%9B%92%E4%B8%AA%E5%A5%97%E6%8F%9010%E6%8F%90%2F%E7%AE%B112%E6%94%AF%2F%E7%AD%9212%E7%93%B6%2F%E7%9B%9220%E7%93%B6%2F%E7%9B%9257*50mm%2F%E7%AD%92%2F4%E5%8D%B780*50mm%2F%E7%AD%92%2F4%E5%8D%B780*60mm%2F%E7%AD%92%2F4%E5%8D%B74%E6%94%AF%2F%E5%8D%A1%E8%A2%8B18%E5%8C%85%2F%E7%AE%B1%E5%9C%9F%E6%A3%95%E8%8A%8220%E7%93%B6%2F%E7%AE%B1%E6%9C%AC50%E7%89%87%2F%E7%AD%92%E6%9D%A120%E5%8F%AA%2F%E5%8C%8510%E5%8F%AA%2F%E5%8C%8530%E5%8F%AA%2F%E5%8C%8540%E5%8F%AA%2F%E5%8C%8550%E5%8F%AA%2F%E5%8C%856%E6%94%AF%2F%E7%9B%92%E6%8A%8A2%E7%89%87%2F%E4%BB%98%E4%BB%9810%E7%9B%92%2F%E5%8C%8524%E7%93%B6%2F%E7%9B%92100%E5%8F%AA%2F%E5%8C%85100%E4%B8%AA%2F%E5%8C%8516%E5%8D%B7%2F%E5%8C%85%E5%8D%B712%E5%8D%B7%2F%E8%A2%8B24%E5%8D%B7%2F%E8%A2%8B32%E5%8D%B7%2F%E8%A2%8B8%E5%8D%B7%2F%E7%AD%9212%E5%8D%B7%2F%E7%AD%926%E5%8D%B7%2F%E7%AD%92%E9%9D%A210%E4%B8%AA%2F%E5%8C%854%E5%8C%85%2F%E7%9B%9240%E5%A5%97%2F%E7%9B%9250%E5%8F%AA%2F%E7%9B%9240%E5%8F%AA%2F%E7%9B%9225%E6%94%AF%2F%E5%8C%8525%E5%8F%AA%2F%E5%8C%8512%E5%8F%AA%2F%E5%8C%85%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:21:27+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:21:29+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:21:31+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%8C%85%E7%AE%B15%E5%8C%85%2F%E7%AE%B18%E5%8C%85%2F%E7%AE%B110%E5%8C%85%2F%E7%AE%B14%E5%8C%85%2F%E7%AE%B124%E5%8D%B7%2F%E7%AE%B1%E7%AD%924%E5%8D%B7%2F%E7%AD%924%E5%8D%B7%2F%E5%8C%8525%E5%8C%85%2F%E7%AE%B112%E6%94%AF%2F%E7%9B%9230%E6%94%AF%2F%E7%AD%92%E5%9D%97%E5%8F%AA%E6%A1%B612%E6%94%AF%2F%E6%A1%B636%E8%89%B2%2F%E7%AD%92%E5%8D%A13%E6%94%AF%2F%E5%8D%A1%E7%93%B610%E6%94%AF%2F%E7%9B%9224%E6%94%AF%2F%E7%9B%9260%E6%94%AF%2F%E7%9B%925%E6%94%AF%2F%E5%8D%A120%E6%94%AF%2F%E7%9B%9230%E5%9D%97%2F%E7%9B%92216%E5%8D%B7%2F%E7%AE%B1%E7%9B%9220%E6%A0%B9%2F%E7%9B%9210%E6%94%AF%2F%E5%8C%85%E5%8F%B0(12%2B12%2F%E5%8D%A1)36%E6%94%AF%2F%E7%9B%92%E4%B8%AA%E5%A5%97%E6%8F%9010%E6%8F%90%2F%E7%AE%B112%E6%94%AF%2F%E7%AD%9212%E7%93%B6%2F%E7%9B%9220%E7%93%B6%2F%E7%9B%9257*50mm%2F%E7%AD%92%2F4%E5%8D%B780*50mm%2F%E7%AD%92%2F4%E5%8D%B780*60mm%2F%E7%AD%92%2F4%E5%8D%B74%E6%94%AF%2F%E5%8D%A1%E8%A2%8B18%E5%8C%85%2F%E7%AE%B1%E5%9C%9F%E6%A3%95%E8%8A%8220%E7%93%B6%2F%E7%AE%B1%E6%9C%AC50%E7%89%87%2F%E7%AD%92%E6%9D%A120%E5%8F%AA%2F%E5%8C%8510%E5%8F%AA%2F%E5%8C%8530%E5%8F%AA%2F%E5%8C%8540%E5%8F%AA%2F%E5%8C%8550%E5%8F%AA%2F%E5%8C%856%E6%94%AF%2F%E7%9B%92%E6%8A%8A2%E7%89%87%2F%E4%BB%98%E4%BB%9810%E7%9B%92%2F%E5%8C%8524%E7%93%B6%2F%E7%9B%92100%E5%8F%AA%2F%E5%8C%85100%E4%B8%AA%2F%E5%8C%8516%E5%8D%B7%2F%E5%8C%85%E5%8D%B712%E5%8D%B7%2F%E8%A2%8B24%E5%8D%B7%2F%E8%A2%8B32%E5%8D%B7%2F%E8%A2%8B8%E5%8D%B7%2F%E7%AD%9212%E5%8D%B7%2F%E7%AD%926%E5%8D%B7%2F%E7%AD%92%E9%9D%A210%E4%B8%AA%2F%E5%8C%854%E5%8C%85%2F%E7%9B%9240%E5%A5%97%2F%E7%9B%9250%E5%8F%AA%2F%E7%9B%9240%E5%8F%AA%2F%E7%9B%9225%E6%94%AF%2F%E5%8C%8525%E5%8F%AA%2F%E5%8C%8512%E5%8F%AA%2F%E5%8C%85%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:21:34+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%8C%85%E7%AE%B15%E5%8C%85%2F%E7%AE%B18%E5%8C%85%2F%E7%AE%B110%E5%8C%85%2F%E7%AE%B14%E5%8C%85%2F%E7%AE%B124%E5%8D%B7%2F%E7%AE%B1%E7%AD%924%E5%8D%B7%2F%E7%AD%924%E5%8D%B7%2F%E5%8C%8525%E5%8C%85%2F%E7%AE%B112%E6%94%AF%2F%E7%9B%9230%E6%94%AF%2F%E7%AD%92%E5%9D%97%E6%94%AF%E5%8F%AA%E6%A1%B612%E6%94%AF%2F%E6%A1%B636%E8%89%B2%2F%E7%AD%92%E5%8D%A13%E6%94%AF%2F%E5%8D%A1%E7%93%B610%E6%94%AF%2F%E7%9B%9224%E6%94%AF%2F%E7%9B%9260%E6%94%AF%2F%E7%9B%925%E6%94%AF%2F%E5%8D%A120%E6%94%AF%2F%E7%9B%9230%E5%9D%97%2F%E7%9B%92216%E5%8D%B7%2F%E7%AE%B1%E7%9B%9220%E6%A0%B9%2F%E7%9B%9210%E6%94%AF%2F%E5%8C%85%E5%8F%B0(12%2B12%2F%E5%8D%A1)36%E6%94%AF%2F%E7%9B%92%E4%B8%AA%E5%A5%97%E6%8F%9010%E6%8F%90%2F%E7%AE%B112%E6%94%AF%2F%E7%AD%9212%E7%93%B6%2F%E7%9B%9220%E7%93%B6%2F%E7%9B%9257*50mm%2F%E7%AD%92%2F4%E5%8D%B780*50mm%2F%E7%AD%92%2F4%E5%8D%B780*60mm%2F%E7%AD%92%2F4%E5%8D%B74%E6%94%AF%2F%E5%8D%A1%E8%A2%8B18%E5%8C%85%2F%E7%AE%B1%E5%9C%9F%E6%A3%95%E8%8A%8220%E7%93%B6%2F%E7%AE%B1%E6%9C%AC50%E7%89%87%2F%E7%AD%92%E6%9D%A120%E5%8F%AA%2F%E5%8C%8510%E5%8F%AA%2F%E5%8C%8530%E5%8F%AA%2F%E5%8C%8540%E5%8F%AA%2F%E5%8C%8550%E5%8F%AA%2F%E5%8C%856%E6%94%AF%2F%E7%9B%92%E6%8A%8A2%E7%89%87%2F%E4%BB%98%E4%BB%9810%E7%9B%92%2F%E5%8C%8524%E7%93%B6%2F%E7%9B%92100%E5%8F%AA%2F%E5%8C%85100%E4%B8%AA%2F%E5%8C%8516%E5%8D%B7%2F%E5%8C%85%E5%8D%B712%E5%8D%B7%2F%E8%A2%8B24%E5%8D%B7%2F%E8%A2%8B32%E5%8D%B7%2F%E8%A2%8B8%E5%8D%B7%2F%E7%AD%9212%E5%8D%B7%2F%E7%AD%926%E5%8D%B7%2F%E7%AD%92%E9%9D%A210%E4%B8%AA%2F%E5%8C%854%E5%8C%85%2F%E7%9B%9240%E5%A5%97%2F%E7%9B%9250%E5%8F%AA%2F%E7%9B%9240%E5%8F%AA%2F%E7%9B%9225%E6%94%AF%2F%E5%8C%8525%E5%8F%AA%2F%E5%8C%8512%E5%8F%AA%2F%E5%8C%85%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:21:46+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:21:49+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:21:59+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%8C%85%E7%AE%B15%E5%8C%85%2F%E7%AE%B18%E5%8C%85%2F%E7%AE%B110%E5%8C%85%2F%E7%AE%B14%E5%8C%85%2F%E7%AE%B124%E5%8D%B7%2F%E7%AE%B1%E7%AD%924%E5%8D%B7%2F%E7%AD%924%E5%8D%B7%2F%E5%8C%8525%E5%8C%85%2F%E7%AE%B112%E6%94%AF%2F%E7%9B%9230%E6%94%AF%2F%E7%AD%92%E5%9D%97%E6%94%AF%E5%8F%AA%E6%A1%B612%E6%94%AF%2F%E6%A1%B636%E8%89%B2%2F%E7%AD%92%E5%8D%A13%E6%94%AF%2F%E5%8D%A1%E7%93%B610%E6%94%AF%2F%E7%9B%9224%E6%94%AF%2F%E7%9B%9260%E6%94%AF%2F%E7%9B%9220%E6%94%AF%2F%E7%9B%9230%E5%9D%97%2F%E7%9B%92216%E5%8D%B7%2F%E7%AE%B1%E7%9B%9220%E6%A0%B9%2F%E7%9B%9210%E6%94%AF%2F%E5%8C%85%E5%8F%B0(12%2B12%2F%E5%8D%A1)36%E6%94%AF%2F%E7%9B%92%E4%B8%AA%E5%A5%97%E6%8F%9010%E6%8F%90%2F%E7%AE%B112%E6%94%AF%2F%E7%AD%9212%E7%93%B6%2F%E7%9B%9220%E7%93%B6%2F%E7%9B%9257*50mm%2F%E7%AD%92%2F4%E5%8D%B780*50mm%2F%E7%AD%92%2F4%E5%8D%B780*60mm%2F%E7%AD%92%2F4%E5%8D%B74%E6%94%AF%2F%E5%8D%A1%E8%A2%8B18%E5%8C%85%2F%E7%AE%B1%E5%9C%9F%E6%A3%95%E8%8A%8220%E7%93%B6%2F%E7%AE%B1%E6%9C%AC50%E7%89%87%2F%E7%AD%92%E6%9D%A120%E5%8F%AA%2F%E5%8C%8510%E5%8F%AA%2F%E5%8C%8530%E5%8F%AA%2F%E5%8C%8540%E5%8F%AA%2F%E5%8C%8550%E5%8F%AA%2F%E5%8C%856%E6%94%AF%2F%E7%9B%92%E6%8A%8A2%E7%89%87%2F%E4%BB%98%E4%BB%9810%E7%9B%92%2F%E5%8C%8524%E7%93%B6%2F%E7%9B%92100%E5%8F%AA%2F%E5%8C%85100%E4%B8%AA%2F%E5%8C%8516%E5%8D%B7%2F%E5%8C%85%E5%8D%B712%E5%8D%B7%2F%E8%A2%8B24%E5%8D%B7%2F%E8%A2%8B32%E5%8D%B7%2F%E8%A2%8B8%E5%8D%B7%2F%E7%AD%9212%E5%8D%B7%2F%E7%AD%926%E5%8D%B7%2F%E7%AD%92%E9%9D%A210%E4%B8%AA%2F%E5%8C%854%E5%8C%85%2F%E7%9B%9240%E5%A5%97%2F%E7%9B%9250%E5%8F%AA%2F%E7%9B%9240%E5%8F%AA%2F%E7%9B%9225%E6%94%AF%2F%E5%8C%8525%E5%8F%AA%2F%E5%8C%8512%E5%8F%AA%2F%E5%8C%85%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.002000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:22:42+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:22:44+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:22:47+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A832GB&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:22:50+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A880*60mm%2F%E7%AD%92%2F4%E5%8D%B732GB&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:22:53+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A85%E6%94%AF%2F%E5%8D%A132GB&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:22:55+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E4%B8%89%E8%81%94%2F%E4%B8%89%E7%AD%89%E5%88%865%E6%94%AF%2F%E5%8D%A132GB&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:22:57+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E9%A2%9C%E8%89%B2%E9%9A%8F%E6%9C%BA%E4%B8%89%E8%81%94%2F%E4%B8%89%E7%AD%89%E5%88%865%E6%94%AF%2F%E5%8D%A132GB&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:24:38+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:24:41+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:24:47+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A85%E6%94%AF%2F%E5%8D%A1%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:25:55+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%9B%9B%E8%81%94%2F%E4%B8%89%E7%AD%89%E5%88%865%E6%94%AF%2F%E5%8D%A1%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.003000s ]
+INFO: [ reade ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:28:39+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:28:43+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:28:48+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A820%E6%94%AF%2F%E7%9B%92%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:28:52+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E5%85%A8%E9%83%A830%E5%9D%97%2F%E7%9B%92%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:28:54+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8%E4%BA%8C%E8%81%94%2F%E4%BA%8C%E7%AD%89%E5%88%8630%E5%9D%97%2F%E7%9B%92%E5%85%A8%E9%83%A8&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:31:27+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:31:29+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:32:26+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:32:28+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T17:34:18+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:34:21+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:34:51+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T17:34:53+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:35:39+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T17:35:41+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:38:50+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:38:51+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:39:08+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:39:10+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:41:48+08:00 ] 127.0.0.1 /index.php/Home/Product/ProductList?cid=1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:41:50+08:00 ] 127.0.0.1 /index.php/Home/Product/getList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Model\SiteModel::getData() should be compatible with Common\Model\BaseModel::getData($id, array $field) D:\shopsn\Application\Home\Model\SiteModel.class.php 第 140 行.
+NOTIC: [8] Undefined index: area_id D:\shopsn\Application\Common\Model\RegionModel.class.php 第 486 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: name D:\shopsn\Runtime\Cache\Home\a44462bd0de1755670f0790f3f87e7a7.php 第 13 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:41:55+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%A5%97-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T17:45:18+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:45:48+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:47:02+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:47:15+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:47:34+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:48:13+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:48:17+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T17:48:37+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:48:54+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T17:49:15+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T17:51:43+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T18:13:22+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T18:13:26+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T18:14:02+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T18:14:26+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T18:16:23+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T18:16:53+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T18:17:40+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T18:17:42+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T18:17:51+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-07-10T18:18:45+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T18:19:00+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T18:20:53+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-07-10T18:21:04+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E4%B8%AA-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T18:21:28+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%A5%97-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.001000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T18:21:49+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-80*60mm%2F%E7%AD%92%2F4%E5%8D%B7-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 101 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 108 行.
+
+[ 2018-07-10T18:22:32+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E9%9D%A2-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.004000s ]
+INFO: [ reade ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 102 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 109 行.
+
+[ 2018-07-10T18:23:00+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-100%E4%B8%AA%2F%E5%8C%85-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: aj_goods_spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 102 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 110 行.
+
+[ 2018-07-10T18:23:44+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-100%E5%8F%AA%2F%E5%8C%85-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.003000s ]
+INFO: [ reade ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 110 行.
+
+[ 2018-07-10T18:23:57+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E4%B8%AA-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 109 行.
+
+[ 2018-07-10T18:24:17+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E6%9C%AC-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.002000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 109 行.
+
+[ 2018-07-10T18:24:25+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E6%9C%AC-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 109 行.
+
+[ 2018-07-10T18:24:26+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 843 行.
+NOTIC: [2] implode(): Invalid arguments passed D:\shopsn\Core\Library\Think\Db\Driver.class.php 第 567 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2018-07-10T18:26:46+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-07-10T18:27:02+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T18:29:01+08:00 ] 127.0.0.1 /index.php/Home/Product/ajaxGoodsSpec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-07-10T18:29:07+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 121 行.
+
+[ 2018-07-10T18:29:46+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%8F%B0-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.002000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 121 行.
+
+[ 2018-07-10T18:30:05+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%8F%B0-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 121 行.
+
+[ 2018-07-10T18:30:30+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%8F%B0-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.002000s ]
+INFO: [ reade ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: spec D:\shopsn\Application\Home\Controller\ProductController.class.php 第 112 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 122 行.
+
+[ 2018-07-10T18:31:43+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%8F%B0-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ reade ] --START--
+INFO: Run Common\Behavior\WangJinTing [ RunTime:0.002000s ]
+INFO: [ reade ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 123 行.
+
+[ 2018-07-10T18:31:53+08:00 ] 127.0.0.1 /index.php/Home/Product/productlist.html?cid=1.html&brand=all&price=all&goods_spec=%E5%85%A8%E9%83%A8-%E5%85%A8%E9%83%A8-%E5%8F%B0-%E5%85%A8%E9%83%A8-&keyword=&begin_price=&end_price=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: cond D:\shopsn\Application\Home\Controller\ProductController.class.php 第 96 行.
+NOTIC: [8] Undefined variable: price D:\shopsn\Application\Home\Controller\ProductController.class.php 第 121 行.
+
